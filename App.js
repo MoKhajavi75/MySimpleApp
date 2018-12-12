@@ -5,7 +5,7 @@ export default class App extends Component {
   render() {
     return (
       <SafeAreaView style={styles.container}>
-        <Text style={styles.text}>{"1 + 1 = 2"}</Text>
+        <Text style={styles.text}>{"2 + 2 = 4"}</Text>
       </SafeAreaView>
     );
   }
